@@ -2,4 +2,5 @@
 
 A dynamic interactive dashboard using PowerBI from a sample of staff related Raw data to beautiful
  visualization/ insights. Straight from EDA to visualisation.
+
 ![Screenshot 2024-11-17 170206](https://github.com/user-attachments/assets/ae045cb9-3cda-46a1-9e12-9a955ec7a416)
